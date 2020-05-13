@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="17227" appversion="6.0.1">
+  <panorama id="node1" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="0.400" levelingpitch="0" width="4939" height="4939">
+      <level width="4939" preload="0" predecode="0" height="4939"/>
+      <level width="2469" preload="0" predecode="0" height="2469"/>
+      <level width="1234" preload="0" predecode="0" height="1234"/>
+      <level width="617" preload="0" predecode="0" height="617"/>
+      <level width="308" preload="1" predecode="1" height="308"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-243" fovmode="0">
+      <start fov="60.9" projection="4" tilt="-1.86" pan="28.53"/>
+      <flyin fov="60.9" projection="4" tilt="1.24" pan="28.98"/>
+      <min tilt="-90" fovpixel="1" pan="0"/>
+      <max fov="120" tilt="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="2017 derarbeitsmarkt.ch" author="Detlef Kohl" info="Lämmerenhütte" latitude="46.39628857034513" comment="" longitude="7.59794712066650" datetime="" tags="360 Panorama  Gemmibahn|Abends|Lämmerenboden|Lämmerenboden-Panoramabank|Lämmerengrat|Lämmerenhütte-Lastenaufzug|Lämmerenhütte-Steingarten" customnodeid="" description="Lämmerenboden" source="www.aegeridesign.ch" title="Lämmerenboden"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" borderradius="1" enabled="1" backgroundalpha="1" bordercolor="0x000000" width="180" border="1" wordwrap="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="{node2}" skinid="ht_node" id="Point01" tilt="6.28" description="" pan="-175.79" target="$fwd" title="Panoramabank"/>
+      <hotspot url="{node3}" skinid="ht_node" id="Point02" tilt="6.24" description="" pan="-174.72" target="$fwd" title="Steingarten"/>
+      <hotspot url="{node4}" skinid="ht_node" id="Point03" tilt="6.32" description="" pan="-176.65" target="$fwd" title="Lastenseilbahn"/>
+      <hotspot url="fxUEsFM7-kk" skinid="ht_video_youtube" id="Point04" tilt="1.29" description="" pan="-161.23" target="_parent" title="Wasserfall Wildstrubelbach"/>
+      <hotspot url="https://youtu.be/u_c-PXnGSHU" skinid="ht_info" id="Point05" tilt="14" description="" pan="-150.11" target="" title="Grosses Schneehorn 3178m ü.M."/>
+      <hotspot url="{node5}" skinid="ht_node" id="Point07" tilt="6.27" description="" pan="-175.32" target="$fwd" title="Abendstimmung Lämmerenhütte Panoramabank"/>
+      <hotspot url="{node6}" skinid="ht_node" id="Point08" tilt="6.17" description="" pan="-173.29" target="$fwd" title="Abendstimmung Lämmerenhütte Steingarten"/>
+      <hotspot url="FgSqVrhkPKk" skinid="ht_video_youtube" id="Point10" tilt="3.67" description="Der Daubensee erstreckt sich in nord-südlicher Richtung über eine Länge von gut 1.5 Kilometern und ist an seiner breitesten Stelle rund 400 Meter breit. An der östlichen Seite steigt das Gelände durch einen als Schafberg bezeichneten Hang zum Rinderhorn an, während sich über dem Westufer die nördliche Fortsetzung des Lämmerengrats erhebt, die in der Roten Totz (2848 m.ü.M.) ihren höchsten Punkt erreicht.&#xa;Von Süden her mündet die Lämmerendalu in den See. Das Wasser fliesst unterirdisch ab und tritt am Fusse eines Felsens unterhalb des Dorfes Varen VS wieder an die Oberfläche. (Quelle: Wikipedia.org)" pan="42.27" target="" title="Daubensee 2207m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point06" tilt="43.5" description="" pan="-77.89" target="" title="Schwarzhorn 3105m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point11" tilt="8.44" description="" pan="165.83" target="" title="Lämmerengrat"/>
+      <hotspot url="images/_DSC0042.jpg" skinid="ht_image" id="Point12" tilt="9.28" description="" pan="-167.51" target="" title="Wildstrubel"/>
+      <hotspot url="u_c-PXnGSHU" skinid="ht_video_youtube" id="Point09" tilt="11.35" description="" pan="-159.33" target="" title="Kleines Schneehorn 3146m ü.M."/>
+      <hotspot url="{node7}" skinid="ht_node" id="Point13" tilt="1.09" description="" pan="-336.69" target="$fwd" title="Gemmipass"/>
+      <hotspot url="" skinid="ht_info" id="Point14" tilt="16.32" description="" pan="163.49" target="" title="Lämmerenhorn 2806m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point15" tilt="13.79" description="" pan="157.8" target="" title="Leiterli"/>
+      <hotspot url="" skinid="ht_info" id="Point16" tilt="17.57" description="" pan="132.93" target="" title="Steghorn 3146m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point17" tilt="12.61" description="" pan="41.8" target="" title="Balmhorn 3698m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point18" tilt="10.92" description="" pan="30.84" target="" title="Rinderhorn 3448m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point19" tilt="4.76" description="" pan="24.75" target="" title="Plattenhörner"/>
+      <hotspot url="" skinid="ht_info" id="Point20" tilt="5.08" description="" pan="12.77" target="" title="Majinghorn 3054m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point21" tilt="3.76" description="" pan="15.74" target="" title="Bietschhorn 3934m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point22" tilt="6.07" description="10 Routen 3a bis 4b&#xa;1 Route 6c" pan="-178.07" target="" title="Klettergarten Sektor E"/>
+      <hotspot url="" skinid="ht_info" id="Point23" tilt="5.1" description="" pan="-167.33" target="" title="Klettergarten Lämmergeier Sektor A"/>
+      <hotspot url="" skinid="ht_info" id="Point24" tilt="9.53" description="" pan="176.83" target="" title="Klettergarten Lämmerenhorn Sektor C"/>
+      <hotspot url="" skinid="ht_info" id="Point25" tilt="4.28" description="" pan="-164.67" target="" title="Klettergarten Winterweg Sektor B"/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="0" mode="0" level="0.200" loop="0" pansize="10.000" ambientlevel="0.000" id="_background" tilt="-1.000" tiltsize="10.000" pan="-1.000" field="90.000" startmutedmobile="0">
+        <source url="media/frametraxx_preview_Suspense-and-Drama.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="20" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomout="0" zoomspeed="2" zoomin="0" blendcolor="0x000000" softedge="0"/>
+    <autorotate returntohorizon="0.500" speed="0.020" enabled="1" startloaded="1" useanimation="0" nodedelay="0.00" noderandom="1" delay="1.00"/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" rubberband="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" sensitivity="8" simulatemass="1" invertwheel="0" invertcontrol="1" hideabout="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="0.400" levelingpitch="0" width="4961" height="4961">
+      <level width="4961" preload="0" predecode="0" height="4961"/>
+      <level width="2480" preload="0" predecode="0" height="2480"/>
+      <level width="1240" preload="0" predecode="0" height="1240"/>
+      <level width="620" preload="0" predecode="0" height="620"/>
+      <level width="310" preload="1" predecode="1" height="310"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-1" fovmode="0">
+      <start fov="60.9" projection="4" tilt="7.45" pan="19.12"/>
+      <flyin fov="60.9" projection="4" tilt="1.24" pan="-89.02"/>
+      <min tilt="-90" fovpixel="1" pan="0"/>
+      <max fov="120" tilt="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="2017 derarbeitsmarkt.ch" author="Detlef Kohl" info="Lämmerenhütte" latitude="46.399975953845896" comment="" longitude="7.574644215938633" datetime="17.11.17 11:01" tags="360 Panorama  Gemmibahn|Abends|Lämmerenboden|Lämmerenboden-Panoramabank|Lämmerengrat|Lämmerenhütte-Lastenaufzug|Lämmerenhütte-Steingarten" customnodeid="" description="Panoramabank" source="www.aegeridesign.ch" title="Lämmerenhütte Panoramabank"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" borderradius="1" enabled="1" backgroundalpha="1" bordercolor="0x000000" width="180" border="1" wordwrap="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="{node1}" skinid="ht_node" id="Point01" tilt="-6.01" description="" pan="-110.27" target="$fwd" title="Lämmerenboden"/>
+      <hotspot url="{node3}" skinid="ht_node" id="Point02" tilt="0" description="" pan="71.7691" target="$fwd" title="Steingarten"/>
+      <hotspot url="{node4}" skinid="ht_node" id="Point03" tilt="0" description="" pan="-21.58" target="-76.6/0.0/70.0" title="Lastenseilbahn"/>
+      <hotspot url="{node5}" skinid="ht_node" id="Point04" tilt="-7.64" description="" pan="141.44" target="$fwd" title="Abendstimmung Lämmerenhütte Panoramabank"/>
+      <hotspot url="{node6}" skinid="ht_node" id="Point05" tilt="-0.29" description="" pan="78.89" target="$fwd" title="Abendstimmung Lämmerenhütte Steingarten"/>
+      <hotspot url="" skinid="ht_info" id="Point06" tilt="-9.38" description="" pan="-79.71" target="" title="Lämmerensee"/>
+      <hotspot url="" skinid="ht_info" id="Point07" tilt="11.41" description="" pan="-120.41" target="" title="Daubenhorn 2942m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point08" tilt="20.66" description="" pan="-172.34" target="" title="Schwarzhorn 3105m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point09" tilt="19.14" description="" pan="125.91" target="" title="Grosses Schneehorn 3178m ü.M."/>
+      <hotspot url="u_c-PXnGSHU" skinid="ht_video_youtube" id="Point10" tilt="15.11" description="" pan="106.06" target="" title="Kleines Schneehorn 3146m ü.M."/>
+      <hotspot url="FgSqVrhkPKk" skinid="ht_video_youtube" id="Point11" tilt="3.81" description="Der Daubensee erstreckt sich in nord-südlicher Richtung über eine Länge von gut 1.5 Kilometern und ist an seiner breitesten Stelle rund 400 Meter breit. An der östlichen Seite steigt das Gelände durch einen als Schafberg bezeichneten Hang zum Rinderhorn an, während sich über dem Westufer die nördliche Fortsetzung des Lämmerengrats erhebt, die in der Roten Totz (2848 m.ü.M.) ihren höchsten Punkt erreicht.&#xa;Von Süden her mündet die Lämmerendalu in den See. Das Wasser fliesst unterirdisch ab und tritt am Fusse eines Felsens unterhalb des Dorfes Varen VS wieder an die Oberfläche. (Quelle: Wikipedia.org)" pan="-76" target="" title="Daubensee 2207m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point12" tilt="12.07" description="" pan="144.57" target="" title="Lämmerengletscher"/>
+      <hotspot url="" skinid="ht_info" id="Point13" tilt="23.14" description="" pan="53.83" target="" title="Lämmerengrat"/>
+      <hotspot url="{node7}" skinid="ht_node" id="Point14" tilt="-0.58" description="" pan="-95.17" target="$fwd" title="Gemmipass"/>
+      <hotspot url="" skinid="ht_info" id="Point15" tilt="19.29" description="" pan="169.83" target="" title="Rothorn 3103m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point16" tilt="14.43" description="" pan="152.85" target="" title="Schneejoch 3016m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point17" tilt="0.06" description="" pan="-72.22" target="" title="Lämmerenplatten"/>
+      <hotspot url="" skinid="ht_info" id="Point18" tilt="-0.42" description="" pan="-84.62" target="" title="Krummen"/>
+      <hotspot url="" skinid="ht_info" id="Point19" tilt="18.94" description="" pan="-20.38" target="" title="Steghorn 3146m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point20" tilt="9.83" description="" pan="-77.55" target="" title="Balmhorn 3698m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point21" tilt="5.88" description="" pan="-88.11" target="" title="Rinderhorn 3448m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point22" tilt="8.75" description="" pan="-69" target="" title="Altels 3629m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point23" tilt="-8.7" description="" pan="-98.03" target="" title="Lämmerenalp"/>
+      <hotspot url="" skinid="ht_info" id="Point24" tilt="5.63" description="" pan="-93.06" target="" title="Bietschhorn 3934m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point25" tilt="5.51" description="" pan="-96.84" target="" title="Majinghorn 3054m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point26" tilt="16.35" description="" pan="4.89" target="" title="Leiterli"/>
+      <hotspot url="" skinid="ht_info" id="Point27" tilt="17.8" description="" pan="17.27" target="" title="Klettergarten Lämmerenhorn Sektor C"/>
+      <hotspot url="" skinid="ht_info" id="Point29" tilt="3.93" description="" pan="-60.03" target="" title="Klettergarten Walfisch Sektion D"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomout="0" zoomspeed="2" zoomin="0" blendcolor="0x000000" softedge="0"/>
+    <autorotate returntohorizon="0.500" speed="0.020" enabled="1" startloaded="1" useanimation="0" nodedelay="0.00" noderandom="1" delay="1.00"/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" rubberband="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" sensitivity="8" simulatemass="1" invertwheel="0" invertcontrol="1" hideabout="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="0.400" levelingpitch="0" width="4952" height="4952">
+      <level width="4952" preload="0" predecode="0" height="4952"/>
+      <level width="2476" preload="0" predecode="0" height="2476"/>
+      <level width="1238" preload="0" predecode="0" height="1238"/>
+      <level width="619" preload="0" predecode="0" height="619"/>
+      <level width="309" preload="1" predecode="1" height="309"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="98" fovmode="0">
+      <start fov="60.9" projection="4" tilt="1.49" pan="15.93"/>
+      <flyin fov="60.9" projection="4" tilt="1.24" pan="9.98"/>
+      <min tilt="-90" fovpixel="1" pan="0"/>
+      <max fov="120" tilt="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="2017 derarbeitsmarkt.ch" author="Detlef Kohl" info="Lämmerenhütte" latitude="46.40016092398959" comment="" longitude="7.573779370534908" datetime="17.11.17 10:05" tags="360 Panorama  Gemmibahn|Abends|Lämmerenboden|Lämmerenboden-Panoramabank|Lämmerengrat|Lämmerenhütte-Lastenaufzug|Lämmerenhütte-Steingarten" customnodeid="" description="Steingarten" source="www.aegeridesign.ch" title="Lämmerenhütte Steingarten"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" borderradius="1" enabled="1" backgroundalpha="1" bordercolor="0x000000" width="180" border="1" wordwrap="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="{node2}" skinid="ht_node" id="Point01" tilt="-5.67" description="" pan="-24.23" target="$fwd" title="Panoramabank"/>
+      <hotspot url="{node1}" skinid="ht_node" id="Point02" tilt="-6.46" description="" pan="-5.61" target="$fwd" title="Lämmerenboden"/>
+      <hotspot url="{node4}" skinid="ht_node" id="Point03" tilt="-5.61" description="" pan="32.73" target="$fwd" title="Lastenseilbahn"/>
+      <hotspot url="{node5}" skinid="ht_node" id="Point04" tilt="-5.41" description="" pan="-29.1" target="$fwd" title="Abendstimmung Lämmerenhütte Panoramabank"/>
+      <hotspot url="{node6}" skinid="ht_node" id="Point05" tilt="-17.34" description="" pan="-104.07" target="$fwd" title="Abendstimmung Lämmerenhütte Steingarten"/>
+      <hotspot url="u_c-PXnGSHU" skinid="ht_video_youtube" id="Point06" tilt="19.19" description="" pan="-155.39" target="" title="Kleines Schneehorn 3146m ü.M."/>
+      <hotspot url="https://youtu.be/u_c-PXnGSHU" skinid="ht_info" id="Point07" tilt="22.97" description="" pan="-134.23" target="" title="Grosses Schneehorn 3178m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point08" tilt="20.53" description="" pan="-72.79" target="" title="Schwarzhorn 3105m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point09" tilt="9.09" description="" pan="-22.66" target="" title="Daubenhorn 2942m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point10" tilt="13.99" description="" pan="-116.86" target="" title="Lämmerengletscher"/>
+      <hotspot url="" skinid="ht_info" id="Point11" tilt="28.1" description="" pan="147.96" target="" title="Lämmerengrat"/>
+      <hotspot url="{node7}" skinid="ht_node" id="Point12" tilt="-4.02" description="" pan="1.16" target="$fwd" title="Gemmipass"/>
+      <hotspot url="" skinid="ht_info" id="Point13" tilt="3.13" description="" pan="0.22" target="" title="Majinghorn 3054m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point14" tilt="7.36" description="" pan="20" target="" title="Balmhorn 3698m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point15" tilt="17.24" description="" pan="95.96" target="" title="Leiterli"/>
+      <hotspot url="" skinid="ht_info" id="Point16" tilt="17.97" description="" pan="74.66" target="" title="Steghorn 3146m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point18" tilt="19.53" description="" pan="106.17" target="" title="Klettergarten Lämmerenhorn Sektor C"/>
+      <hotspot url="" skinid="ht_info" id="Point19" tilt="1.94" description="" pan="81.96" target="" title="Klettergarten Wasserfassung Sektor F"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomout="0" zoomspeed="2" zoomin="0" blendcolor="0x000000" softedge="0"/>
+    <autorotate returntohorizon="0.500" speed="0.020" enabled="1" startloaded="1" useanimation="0" nodedelay="0.00" noderandom="1" delay="1.00"/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" rubberband="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" sensitivity="8" simulatemass="1" invertwheel="0" invertcontrol="1" hideabout="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="0.400" levelingpitch="0" width="4950" height="4950">
+      <level width="4950" preload="0" predecode="0" height="4950"/>
+      <level width="2475" preload="0" predecode="0" height="2475"/>
+      <level width="1237" preload="0" predecode="0" height="1237"/>
+      <level width="618" preload="0" predecode="0" height="618"/>
+      <level width="309" preload="1" predecode="1" height="309"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-56" fovmode="0">
+      <start fov="60.9" projection="4" tilt="4.15" pan="-149.94"/>
+      <flyin fov="60.9" projection="4" tilt="1.24" pan="-144.02"/>
+      <min tilt="-90" fovpixel="1" pan="0"/>
+      <max fov="120" tilt="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="2017 derarbeitsmarkt.ch" author="Detlef Kohl" info="Lämmerenhütte" latitude="46.40055407515754" comment="" longitude="7.575023748514241" datetime="17.11.17 13:21" tags="360 Panorama  Gemmibahn|Abends|Lämmerenboden|Lämmerenboden-Panoramabank|Lämmerengrat|Lämmerenhütte-Lastenaufzug|Lämmerenhütte-Steingarten" customnodeid="" description="Lastenaufzug" source="www.aegeridesign.ch" title="Lämmerenhütte Lastenaufzug"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" borderradius="1" enabled="1" backgroundalpha="1" bordercolor="0x000000" width="180" border="1" wordwrap="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="{node1}" skinid="ht_node" id="Point01" tilt="-4.99" description="" pan="-164.17" target="$fwd" title="Lämmerenboden"/>
+      <hotspot url="{node3}" skinid="ht_node" id="Point02" tilt="1.42" description="" pan="58.74" target="$fwd" title="Steingarten"/>
+      <hotspot url="{node2}" skinid="ht_node" id="Point03" tilt="1.09" description="" pan="98.86" target="$fwd" title="Panoramabank"/>
+      <hotspot url="{node5}" skinid="ht_node" id="Point04" tilt="0" description="" pan="107.813" target="$fwd" title="Abendstimmung Lämmerenhütte Panoramabank"/>
+      <hotspot url="{node6}" skinid="ht_node" id="Point05" tilt="1.64" description="" pan="56.52" target="$fwd" title="Abendstimmung Lämmerenhütte Steingarten"/>
+      <hotspot url="" skinid="ht_info" id="Point06" tilt="11.89" description="" pan="-176.6" target="" title="Daubenhorn 2942m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point07" tilt="20.69" description="" pan="128.18" target="" title="Schwarzhorn 3105m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point08" tilt="19.17" description="" pan="71.47" target="" title="Grosses Schneehorn 3178m ü.M."/>
+      <hotspot url="u_c-PXnGSHU" skinid="ht_video_youtube" id="Point09" tilt="15.71" description="" pan="51.71" target="" title="Kleines Schneehorn 3146m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point10" tilt="-11.35" description="" pan="-140.06" target="" title="Lämmerensee"/>
+      <hotspot url="FgSqVrhkPKk" skinid="ht_video_youtube" id="Point11" tilt="1.81" description="Der Daubensee erstreckt sich in nord-südlicher Richtung über eine Länge von gut 1.5 Kilometern und ist an seiner breitesten Stelle rund 400 Meter breit. An der östlichen Seite steigt das Gelände durch einen als Schafberg bezeichneten Hang zum Rinderhorn an, während sich über dem Westufer die nördliche Fortsetzung des Lämmerengrats erhebt, die in der Roten Totz (2848 m.ü.M.) ihren höchsten Punkt erreicht.&#xa;Von Süden her mündet die Lämmerendalu in den See. Das Wasser fliesst unterirdisch ab und tritt am Fusse eines Felsens unterhalb des Dorfes Varen VS wieder an die Oberfläche. (Quelle: Wikipedia.org)" pan="-138.35" target="" title="Daubensee 2207m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point12" tilt="11.77" description="" pan="89.7" target="" title="Lämmerengletscher"/>
+      <hotspot url="" skinid="ht_info" id="Point13" tilt="27.34" description="" pan="-5.74" target="" title="Lämmerengrat"/>
+      <hotspot url="{node7}" skinid="ht_node" id="Point14" tilt="-1.56" description="" pan="-152.08" target="$fwd" title="Gemmipass"/>
+      <hotspot url="" skinid="ht_info" id="Point15" tilt="5.27" description="" pan="-148.83" target="" title="Bietschhorn 3934m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point16" tilt="5.24" description="" pan="-152.73" target="" title="Majinghorn 3054m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point17" tilt="9.89" description="" pan="-133" target="" title="Balmhorn 3698m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point18" tilt="17.05" description="" pan="-48.62" target="" title="Leiterli"/>
+      <hotspot url="" skinid="ht_info" id="Point19" tilt="19.28" description="" pan="-75.62" target="" title="Steghorn 3146m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point20" tilt="5.4" description="" pan="-163.86" target="" title="Torrenthorn 2998m ü.M."/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomout="0" zoomspeed="2" zoomin="0" blendcolor="0x000000" softedge="0"/>
+    <autorotate returntohorizon="0.500" speed="0.020" enabled="1" startloaded="1" useanimation="0" nodedelay="0.00" noderandom="1" delay="1.00"/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" rubberband="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" sensitivity="8" simulatemass="1" invertwheel="0" invertcontrol="1" hideabout="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="0.400" levelingpitch="0" width="4956" height="4956">
+      <level width="4956" preload="0" predecode="0" height="4956"/>
+      <level width="2478" preload="0" predecode="0" height="2478"/>
+      <level width="1239" preload="0" predecode="0" height="1239"/>
+      <level width="619" preload="0" predecode="0" height="619"/>
+      <level width="309" preload="1" predecode="1" height="309"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-47" fovmode="0">
+      <start fov="62.3" projection="4" tilt="3.41" pan="-36.19"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="2017 derarbeitsmarkt" author="Detlef Kohl" info="Lämmerenhütte" latitude="46.400009248518" comment="" longitude="7.574794419643467" datetime="03.11.17 16:15" tags="360 Panorama  Gemmibahn|Abends|Lämmerenboden|Lämmerenboden-Panoramabank|Lämmerengrat|Lämmerenhütte-Lastenaufzug|Lämmerenhütte-Steingarten" customnodeid="" description="Abendstimmung Panoramabank" source="www.aegeridesign.ch" title="Abendstimmung Lämmerenhütte Panoramabank"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" borderradius="1" enabled="1" backgroundalpha="1" bordercolor="0x000000" width="180" border="1" wordwrap="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="{node1}" skinid="ht_node" id="Point01" tilt="-6.47" description="" pan="-150.98" target="" title="Lämmerenboden"/>
+      <hotspot url="{node3}" skinid="ht_node" id="Point02" tilt="1.28" description="" pan="24.32" target="$fwd" title="Lämmerenhütte Steingarten"/>
+      <hotspot url="{node2}" skinid="ht_node" id="Point03" tilt="-11.85" description="" pan="87.46" target="$fwd" title="Lämmerenhütte Panoramabank"/>
+      <hotspot url="{node6}" skinid="ht_node" id="Point04" tilt="0.43" description="" pan="27.29" target="$fwd" title="Abendstimmung Lämmerenhütte Steingarten"/>
+      <hotspot url="u_c-PXnGSHU" skinid="ht_video_youtube" id="Point05" tilt="17.49" description="" pan="58.55" target="" title="Kleines Schneehorn 3146m ü.M."/>
+      <hotspot url="https://youtu.be/u_c-PXnGSHU" skinid="ht_info" id="Point06" tilt="21.22" description="" pan="79.2" target="" title="Grosses Schneehorn 3178m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point07" tilt="20.64" description="" pan="139.04" target="" title="Schwarzhorn 3105m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point08" tilt="10.48" description="" pan="-168.08" target="" title="Daubenhorn 2942m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point09" tilt="-12.1" description="" pan="-127.14" target="" title="Lämmerensee"/>
+      <hotspot url="{node4}" skinid="ht_node" id="Point10" tilt="0" description="" pan="-63.1865" target="$fwd" title="Lämmerenhütte Lastenaufzug"/>
+      <hotspot url="FgSqVrhkPKk" skinid="ht_video_youtube" id="Point11" tilt="0.8" description="Der Daubensee erstreckt sich in nord-südlicher Richtung über eine Länge von gut 1.5 Kilometern und ist an seiner breitesten Stelle rund 400 Meter breit. An der östlichen Seite steigt das Gelände durch einen als Schafberg bezeichneten Hang zum Rinderhorn an, während sich über dem Westufer die nördliche Fortsetzung des Lämmerengrats erhebt, die in der Roten Totz (2848 m.ü.M.) ihren höchsten Punkt erreicht.&#xa;Von Süden her mündet die Lämmerendalu in den See. Das Wasser fliesst unterirdisch ab und tritt am Fusse eines Felsens unterhalb des Dorfes Varen VS wieder an die Oberfläche. (Quelle: Wikipedia.org)" pan="-132.8" target="" title="Daubensee 2207m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point12" tilt="12.75" description="" pan="97" target="" title="Lämmerengletscher"/>
+      <hotspot url="" skinid="ht_info" id="Point13" tilt="22.35" description="" pan="3.43" target="" title="Lämmerengrat"/>
+      <hotspot url="{node7}" skinid="ht_node" id="Point14" tilt="-2.31" description="" pan="-177.13" target="$fwd" title="Gemmipass"/>
+      <hotspot url="" skinid="ht_info" id="Point15" tilt="4.1" description="" pan="-141" target="" title="Bietschhorn 3934m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point16" tilt="4.01" description="" pan="-144.66" target="" title="Majinghorn 3054m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point17" tilt="8.67" description="" pan="-124.47" target="" title="Balmhorn 3698m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point18" tilt="15.64" description="" pan="-42.95" target="" title="Leiterli"/>
+      <hotspot url="" skinid="ht_info" id="Point19" tilt="18.32" description="" pan="-67.64" target="" title="Steghorn 3146m ü.M."/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomout="0" zoomspeed="2" zoomin="0" blendcolor="0x000000" softedge="0"/>
+    <autorotate returntohorizon="0.500" speed="0.020" enabled="1" startloaded="1" useanimation="0" nodedelay="0.00" noderandom="1" delay="1.00"/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" rubberband="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" sensitivity="8" simulatemass="1" invertwheel="0" invertcontrol="1" hideabout="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="0.400" levelingpitch="0" width="4895" height="4895">
+      <level width="4895" preload="0" predecode="0" height="4895"/>
+      <level width="2447" preload="0" predecode="0" height="2447"/>
+      <level width="1223" preload="0" predecode="0" height="1223"/>
+      <level width="611" preload="0" predecode="0" height="611"/>
+      <level width="305" preload="1" predecode="1" height="305"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="55" fovmode="0">
+      <start fov="65.5" projection="4" tilt="-3.22" pan="-6.87"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="2017 derarbeitsmarkt" author="Detlef Kohl" info="Lämmerenhütte" latitude="46.400009248518" comment="" longitude="7.5741187202377205" datetime="November 2017" tags="360 Panorama  Gemmibahn|Abends|Lämmerenboden|Lämmerenboden-Panoramabank|Lämmerengrat|Lämmerenhütte-Lastenaufzug|Lämmerenhütte-Steingarten" customnodeid="" description="Abendstimmung Steingarten" source="www.aegeridesign.ch" title="Abendstimmung Lämmerenhütte Steingarten"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" borderradius="1" enabled="1" backgroundalpha="1" bordercolor="0x000000" width="180" border="1" wordwrap="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="{node2}" skinid="ht_node" id="Point01" tilt="-10.61" description="" pan="-53.78" target="$fwd" title="Lämmerenhütte Panoramabank"/>
+      <hotspot url="{node1}" skinid="ht_node" id="Point02" tilt="-10.66" description="" pan="-45.28" target="$fwd" title="Lämmerenboden"/>
+      <hotspot url="{node4}" skinid="ht_node" id="Point03" tilt="-4.95" description="" pan="14.12" target="$fwd" title="Lämmerenhütte Lastenaufzug"/>
+      <hotspot url="{node3}" skinid="ht_node" id="Point04" tilt="0" description="" pan="113.95" target="$fwd" title="Lämmerenhütte Steingarten"/>
+      <hotspot url="{node5}" skinid="ht_node" id="Point05" tilt="-10.92" description="" pan="-51.55" target="$fwd" title="Abendstimmung Lämmerenhütte Panoramabank"/>
+      <hotspot url="" skinid="ht_info" id="Point06" tilt="4.11" description="" pan="-63.62" target="" title="Daubenhorn 2942m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point07" tilt="18.03" description="" pan="-115.21" target="" title="Schwarzhorn 3105m ü.M."/>
+      <hotspot url="https://youtu.be/u_c-PXnGSHU" skinid="ht_info" id="Point08" tilt="24.24" description="" pan="-174.17" target="" title="Grosses Schneehorn 3178m ü.M."/>
+      <hotspot url="u_c-PXnGSHU" skinid="ht_video_youtube" id="Point09" tilt="21.98" description="" pan="163.92" target="" title="Kleines Schneehorn 3146m ü.M."/>
+      <hotspot url="FgSqVrhkPKk" skinid="ht_video_youtube" id="Point10" tilt="-5.8" description="Der Daubensee erstreckt sich in nord-südlicher Richtung über eine Länge von gut 1.5 Kilometern und ist an seiner breitesten Stelle rund 400 Meter breit. An der östlichen Seite steigt das Gelände durch einen als Schafberg bezeichneten Hang zum Rinderhorn an, während sich über dem Westufer die nördliche Fortsetzung des Lämmerengrats erhebt, die in der Roten Totz (2848 m.ü.M.) ihren höchsten Punkt erreicht.&#xa;Von Süden her mündet die Lämmerendalu in den See. Das Wasser fliesst unterirdisch ab und tritt am Fusse eines Felsens unterhalb des Dorfes Varen VS wieder an die Oberfläche. (Quelle: Wikipedia.org)" pan="-30.65" target="_parent" title="Daubensee 2207m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point11" tilt="14.39" description="" pan="-156.26" target="" title="Lämmerengletscher"/>
+      <hotspot url="" skinid="ht_info" id="Point12" tilt="28.47" description="" pan="100.02" target="" title="Lämmerengrat"/>
+      <hotspot url="{node7}" skinid="ht_node" id="Point13" tilt="-9.14" description="" pan="-40.04" target="$fwd" title="Gemmipass"/>
+      <hotspot url="" skinid="ht_info" id="Point14" tilt="-2.66" description="" pan="-37.62" target="" title="Bietschhorn 3934m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point15" tilt="-2.64" description="" pan="-41.4" target="" title="Majinghorn 3054m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point16" tilt="2.06" description="" pan="-20.79" target="" title="Balmhorn 3698m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point17" tilt="14.3" description="" pan="33.11" target="" title="Steghorn 3146m ü.M."/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomout="0" zoomspeed="2" zoomin="0" blendcolor="0x000000" softedge="0"/>
+    <autorotate returntohorizon="0.500" speed="0.020" enabled="1" startloaded="1" useanimation="0" nodedelay="0.00" noderandom="1" delay="1.00"/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" rubberband="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" sensitivity="8" simulatemass="1" invertwheel="0" invertcontrol="1" hideabout="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="0.400" levelingpitch="0" width="4969" height="4969">
+      <level width="4969" preload="0" predecode="0" height="4969"/>
+      <level width="2484" preload="0" predecode="0" height="2484"/>
+      <level width="1242" preload="0" predecode="0" height="1242"/>
+      <level width="621" preload="0" predecode="0" height="621"/>
+      <level width="310" preload="1" predecode="1" height="310"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start fov="87.9" projection="4" tilt="-3.53" pan="106.36"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fov="120" tilt="90" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="2017 derarbeitsmarkt" author="Detlef Kohl" info="Lämmerenhütte" latitude="46.397656" comment="" longitude="7.615753" datetime="03.11.17 11:59" tags="360 Panorama  Gemmibahn|Abends|Lämmerenboden|Lämmerenboden-Panoramabank|Lämmerengrat|Lämmerenhütte-Lastenaufzug|Lämmerenhütte-Steingarten" customnodeid="" description="Immersives 360° Panorama vom Gemmipass" source="www.aegeridesign.ch" title="Gemmipass"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" background="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" borderradius="1" enabled="1" backgroundalpha="1" bordercolor="0x000000" width="180" border="1" wordwrap="1" height="20"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="{node1}" skinid="ht_node" id="Point01" tilt="0" description="" pan="276.348" target="$fwd" title="Lämmerenboden"/>
+      <hotspot url="{node4}" skinid="ht_node" id="Point02" tilt="0" description="" pan="264.094" target="$fwd" title="Lämmerenhütte Lastenaufzug"/>
+      <hotspot url="{node3}" skinid="ht_node" id="Point03" tilt="0" description="" pan="265.039" target="$fwd" title="Lämmerenhütte Steingarten"/>
+      <hotspot url="{node2}" skinid="ht_node" id="Point04" tilt="0" description="" pan="265.307" target="$fwd" title="Lämmerenhütte Panoramabank"/>
+      <hotspot url="{node6}" skinid="ht_node" id="Point05" tilt="0" description="" pan="265.299" target="$fwd" title="Abendstimmung Lämmerenhütte Steingarten"/>
+      <hotspot url="auj3yJ9iqUU" skinid="ht_video_youtube" id="Point06" tilt="11.21" description="" pan="139.44" target="" title="Gemmibahn"/>
+      <hotspot url="" skinid="ht_info" id="Point07" tilt="22.37" description="" pan="-44.07" target="" title="Daubenhorn 2942m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point08" tilt="0.3" description="" pan="2.1" target="" title="Dent Blanche 4357m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point09" tilt="0.00999998" description="" pan="6.6" target="" title="Matterhorn 4477m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point10" tilt="1.1" description="" pan="15.92" target="" title="Weisshorn 4506m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point11" tilt="0.03" description="" pan="21.14" target="" title="Brunegghorn 3833m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point12" tilt="0.45" description="" pan="31.18" target="" title="Täschhorn 4491m ü:m:"/>
+      <hotspot url="" skinid="ht_info" id="Point13" tilt="0.62" description="" pan="32.23" target="" title="Dom 4545m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point14" tilt="0.33" description="" pan="33.99" target="" title="Nadelhorn 4327m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point15" tilt="-0.23" description="" pan="36.01" target="" title="Ulrichshorn 3925m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point16" tilt="-0.25" description="" pan="37.93" target="" title="Balfrin 3796m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point17" tilt="0.26" description="" pan="11.36" target="" title="Zinalrothorn 4221m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point18" tilt="-0.00999999" description="" pan="13.87" target="" title="Schalihorn 3974m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point19" tilt="0.6" description="" pan="16.52" target="" title="Bishorn 4153m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point20" tilt="-0.12" description="" pan="8.32" target="" title="Ober Gabelhorn 4063m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point21" tilt="-0.61" description="" pan="4.11" target="" title="Pointe de Zinal 3789m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point22" tilt="-0.64" description="" pan="-4.09" target="" title="Bouquetins3838m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point23" tilt="0.06" description="" pan="-15.16" target="" title="Mont Blanc de Cheilon3870m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point24" tilt="13.14" description="" pan="-23.1" target="" title="Leeshörner 2850m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point25" tilt="8.63" description="" pan="-18.49" target="" title="Leeshörner 2850m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point26" tilt="-11.62" description="" pan="-5.36" target="" title="Kleiner Klettersteig nach Leukerbad"/>
+      <hotspot url="" skinid="ht_info" id="Point27" tilt="-15.33" description="" pan="-0.65" target="" title="Bodmen"/>
+      <hotspot url="" skinid="ht_info" id="Point28" tilt="-19.5" description="" pan="6.28" target="" title="Birchen"/>
+      <hotspot url="" skinid="ht_info" id="Point29" tilt="-24.27" description="" pan="26.3" target="" title="Leukerbad"/>
+      <hotspot url="" skinid="ht_info" id="Point30" tilt="-3.4" description="" pan="41.22" target="" title="Rinderhornhütte 2350m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point31" tilt="-21.49" description="" pan="-24.79" target="" title="Gemmiweg Leukerbad-Gemmipass"/>
+      <hotspot url="" skinid="ht_info" id="Point32" tilt="-14.36" description="" pan="3.25" target="" title="Inden"/>
+      <hotspot url="" skinid="ht_info" id="Point33" tilt="20.94" description="" pan="110" target="" title="Rinderhorn 3448m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point34" tilt="12.07" description="" pan="102.88" target="" title="Plattenhörner"/>
+      <hotspot url="" skinid="ht_info" id="Point35" tilt="4.75" description="" pan="98.85" target="" title="Ferdenrothorn 3180m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point36" tilt="3.27" description="" pan="97.71" target="" title="Gitzifurggu 2912m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point37" tilt="3.84" description="" pan="90.38" target="" title="Bietschhorn 3934m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point38" tilt="6.03" description="" pan="85.17" target="" title="Majinghorn 3054m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point39" tilt="5.08" description="" pan="67.31" target="" title="Torrenthorn 2998m ü.M."/>
+      <hotspot url="" skinid="ht_info" id="Point40" tilt="3.23" description="" pan="55.19" target="" title="Schafberg 2848m ü.M."/>
+      <hotspot url="FgSqVrhkPKk" skinid="ht_video_youtube" id="Point41" tilt="8.3" description="" pan="163.28" target="" title="Daubensee 2207m ü.M."/>
+      <hotspot url="FDpkrEMWt5E" skinid="ht_video_youtube" id="Point42" tilt="7.14" description="" pan="121" target="" title="Gemmibahn-Panorama"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomout="0" zoomspeed="2" zoomin="0" blendcolor="0x000000" softedge="0"/>
+    <autorotate returntohorizon="0.500" speed="0.020" enabled="1" startloaded="1" useanimation="0" nodedelay="0.00" noderandom="1" delay="1.00"/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" rubberband="0" lockedmouse="0" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" sensitivity="8" simulatemass="1" invertwheel="0" invertcontrol="1" hideabout="1" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" author="" info="" latitude="" comment="" longitude="" datetime="" tags="" customnodeid="" description="" source="" title=""/>
+  </masternode>
+</tour>
